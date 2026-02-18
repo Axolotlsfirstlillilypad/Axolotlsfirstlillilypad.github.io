@@ -1,0 +1,18 @@
+pinned:
+  - title: "Featured Analysis"
+    description: "Regression modelling example project."
+    file: "assets/documents/sample.pdf"
+  - title: "Visualization Dashboard"
+    description: "Interactive charts and reports."
+    file: "assets/documents/dashboard.pdf"
+
+projects:
+  - title: "Market Analysis"
+    description: "Statistical modelling and visualization."
+    file: "assets/documents/market.pdf"
+  - title: "Essay Sample"
+    description: "Long-form writing."
+    file: "assets/documents/essay.pdf"
+  - title: "Side Project Experiment"
+    description: "Prototype tool."
+    file: "assets/documents/experiment.pdf"
