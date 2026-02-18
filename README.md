@@ -2,7 +2,7 @@
 
 # Personal Website
 
-This repository contains the source code for my personal website and project portfolio. The website currently lives at: https://YOUR-USERNAME.github.io
+This repository contains the source code for my personal website and project portfolio. The website currently lives at: https://Axolotlsfirstlillilypad.github.io
 
 ---
 
