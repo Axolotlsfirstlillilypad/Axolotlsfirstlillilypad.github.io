@@ -1,0 +1,4 @@
+title: My Portfolio
+baseurl: ""  # leave empty for user site
+markdown: kramdown
+highlighter: rouge
